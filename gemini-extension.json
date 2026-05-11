@@ -1,0 +1,6 @@
+{
+  "name": "reactnative-agent-skills",
+  "version": "1.0.0",
+  "description": "A collection of agent skills for modern React Native development, optimized for Gemini CLI.",
+  "contextFileName": "GEMINI.md"
+}
